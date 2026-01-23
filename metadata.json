@@ -1,0 +1,7 @@
+{
+  "name": "Elysian Luxe Link-in-Bio Storefront",
+  "description": "A high-end, minimalist mobile storefront for a luxury clothing and fragrance brand, featuring mood-based AI fragrance recommendations.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
