@@ -1,0 +1,7 @@
+{
+  "name": "N & F collection Link-in-Bio Storefront",
+  "description": "A high-end, minimalist mobile storefront for N & F collection, featuring clothing, fragrances, and mood-based AI recommendations.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
